@@ -14,7 +14,7 @@ const GameScreen = () => {
         NewGameState("#2: Pastry puzzle: Part 2", "I **** to *** pancakes", "I love to eat pancakes", 3, 1),
         NewGameState("#3: An old internet joke: Part 1", "All **** **** are ****** to us", "All your base are belong to us", 4, 1),
         NewGameState("#4: An old internet joke: Part 2", "All y*** **** are ****** to us", "All your base are belong to us", 2, 1),
-        NewGameState("Placeholder Game State", "This puzzle is g***ric", "This puzzle is generic", 3, 1),
+        NewGameState("Placeholder Game State", "This puzzle is g******", "This puzzle is generic", 3, 1),
     ]
 
     const state: GameState = gameStates[4]; // change the number here to pick which puzzle to use.
